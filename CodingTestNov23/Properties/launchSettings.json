@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "CodingTestNov23": {
+      "commandName": "Project"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "environmentVariables": {},
+      "distributionName": ""
+    }
+  }
+}
